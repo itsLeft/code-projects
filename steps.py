@@ -1,5 +1,5 @@
 """
-Josh Sacharski
+Josh S
 Step Counter
 Create a script that calculates statistics about the number of steps the user has taken.
 
